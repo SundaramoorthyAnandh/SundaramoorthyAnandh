@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SundaramoorthyAnandh
-- 👀 I’m interested in Web Development, mostly front-end, preferably React
-- 🌱 I have started learning UX designs and development 
+- 👀 I’m interested in Web Development, mostly front-end, preferably React and also Figma
+- 🌱 UI/UX Unicorn 
 - 💞️ I’m looking to collaborate on React
 - 📫 sundaramoorthy1224@gmail.com
 
